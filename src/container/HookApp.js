@@ -1,6 +1,5 @@
 import React, {useState} from 'react';
 import TableData from '../common/TableData';
-import FormData from '../common/FormData';
 import HookForm from '../common/HookForm';
 import { UserDetailsContext } from '../store';
 const HookApp = () => {
